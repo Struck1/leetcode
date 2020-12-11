@@ -1,6 +1,11 @@
 {
     "files.associations": {
         "*.vhd": "vhdl",
-        "xlocale": "cpp"
+        "xlocale": "cpp",
+        "xstring": "cpp",
+        "unordered_map": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp"
     }
 }
